@@ -1,4 +1,4 @@
-title: Researcher
+title: Minsub Lee
 url: "https://msublee.github.io"
 baseurl: ""
 
@@ -7,17 +7,17 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+# footer: yes
+# footer_url: "https://github.com/ankitsultana"
+# footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
+#  - name: "About"
+  #  link: "/researcher/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
