@@ -7,7 +7,7 @@ layout: default
 <img class="profile-picture" src="minsub.jpg">
 
 M.S. student<br/>
-[LIM Lab](https://sites.google.com/view/sungbin/)<br/>
+LIM Lab<br/>
 Graduate School of AI, UNIST
 
 <minsub.m.lee@gmail.com><br/>
@@ -17,7 +17,7 @@ Graduate School of AI, UNIST
 
 ## Research Interest
 
-I am a M.S. student at LIM Lab
+I am a Master's student at [Learning Intelligent Machine (LIM) Lab](https://sites.google.com/view/sungbin/) in Graduate School of AI, UNIST, under the supervision of Prof. Sungbin Lim. My research interests include machine learning, stochastic optimization, uncertainty estimation, and reinforcement learning.
 
 ## Publications
 <!-- 
