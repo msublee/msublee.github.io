@@ -9,7 +9,7 @@ layout: default
 M.S. student in [LIM Lab](https://sites.google.com/view/sungbin/)<br/>
 Graduate School of AI, UNIST
 
-Contact: <minsub.m.lee@gmail.com>
+Contact: <minsub.m.lee@gmail.com><br/>
 [[Github]](https://github.com/msublee)
 
 ## Research Interest
