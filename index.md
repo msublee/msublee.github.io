@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## About Me
+<!-- ## About Me -->
 
 <img class="profile-picture" src="minsub.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+M.S. student
+LIM Lab
+Graduate School of AI, UNIST
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+minsub.m.lee@gmail.com
 
 ## Research Interest
 
