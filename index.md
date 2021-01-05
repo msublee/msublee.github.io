@@ -12,7 +12,7 @@ LIM Lab
 
 Graduate School of AI, UNIST
 
-[minsub.m.lee@gmail.com]
+[minsub.m.lee@gmail.com](minsub.m.lee@gmail.com)
 
 ## Research Interest
 
