@@ -6,7 +6,8 @@ layout: default
 
 <img class="profile-picture" src="minsub.jpg">
 
-M.S. student in [LIM Lab](https://sites.google.com/view/sungbin/)<br/>
+M.S. student<br/>
+[LIM Lab](https://sites.google.com/view/sungbin/)<br/>
 Graduate School of AI, UNIST
 
 <minsub.m.lee@gmail.com><br/>
@@ -16,7 +17,7 @@ Graduate School of AI, UNIST
 
 ## Research Interest
 
-I am a M.S. student 
+I am a M.S. student at LIM Lab
 
 ## Publications
 <!-- 
