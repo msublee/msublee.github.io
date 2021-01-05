@@ -7,10 +7,12 @@ layout: default
 <img class="profile-picture" src="minsub.jpg">
 
 M.S. student
+
 LIM Lab
+
 Graduate School of AI, UNIST
 
-minsub.m.lee@gmail.com
+[minsub.m.lee@gmail.com]
 
 ## Research Interest
 
