@@ -17,7 +17,7 @@ Graduate School of AI, UNIST
 
 ## Research Interest
 
-I am a Master's student at [Learning Intelligent Machine (LIM) Lab](https://sites.google.com/view/sungbin/) in Graduate School of AI, UNIST, under the supervision of Prof. Sungbin Lim. My research interests include machine learning, uncertainty estimation, stochastic optimization, and reinforcement learning.
+I am a Master's student at [Learning Intelligent Machine (LIM) Lab](https://sites.google.com/view/sungbin/) in Graduate School of AI, UNIST, under the supervision of [Prof. Sungbin Lim](https://sites.google.com/view/sungbin/). My research interests include machine learning, uncertainty estimation, stochastic optimization, and reinforcement learning.
 
 ## Publications
 <!-- 
