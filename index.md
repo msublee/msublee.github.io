@@ -10,8 +10,8 @@ M.S. student<br/>
 LIM Lab<br/>
 Graduate School of AI, UNIST
 
-<minsub.m.lee@gmail.com><br/>
-[[Github]](https://github.com/msublee)
+E-mail <minsublee@unist.ac.kr><br/>
+[Github] <https://github.com/msublee><br/>
 
 ---
 
@@ -20,7 +20,7 @@ Graduate School of AI, UNIST
 I am a Master's student at [Learning Intelligent Machine (LIM) Lab](https://sites.google.com/view/sungbin/) in Graduate School of AI, UNIST, under the supervision of [Prof. Sungbin Lim](https://sites.google.com/view/sungbin/). My research interests include machine learning, uncertainty estimation, stochastic optimization, and reinforcement learning. I obtained B.S. in Industrial and Management Engineering & Applied Mathematics (double major) at Hanyang University, ERICA.
 
 ## Publications
-<!-- 
+<!--
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
