@@ -10,8 +10,8 @@ M.S. student<br/>
 LIM Lab<br/>
 Graduate School of AI, UNIST
 
-E-mail <minsublee@unist.ac.kr><br/>
-[Github] <https://github.com/msublee><br/>
+E-mail  <minsublee@unist.ac.kr><br/>
+Github  <https://github.com/msublee><br/>
 
 ---
 
